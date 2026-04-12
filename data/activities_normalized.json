@@ -11243,5 +11243,18 @@
     "start_date_local": "2026-04-03T09:27:31Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 3078.2,
+    "elevation_gain": 14.8,
+    "id": "18074163942",
+    "moving_time": 2373.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-12T10:00:17Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

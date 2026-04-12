@@ -6054,6 +6054,13 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 10,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12970,6 +12977,15 @@
           "distance": 4180.9,
           "elevation_gain": 66.7,
           "moving_time": 2752.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18074163942"
+          ],
+          "count": 1,
+          "distance": 3078.2,
+          "elevation_gain": 14.8,
+          "moving_time": 2373.0
         }
       },
       "WeightTraining": {
@@ -13375,7 +13391,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:38:01.491503+00:00",
+  "generated_at": "2026-04-12T15:39:38.227753+00:00",
   "other_bucket": "OtherSports",
   "repo": "payaniga/git-sweaty",
   "source": "strava",
