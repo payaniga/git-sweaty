@@ -11269,5 +11269,31 @@
     "start_date_local": "2026-05-08T16:31:51Z",
     "type": "TableTennis",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18459476803",
+    "moving_time": 3061.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-11T08:33:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18462529289",
+    "moving_time": 3512.0,
+    "name": "Afternoon Table Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "TableTennis",
+    "start_date_local": "2026-05-11T16:04:11Z",
+    "type": "TableTennis",
+    "year": 2026
   }
 ]
