@@ -6082,6 +6082,13 @@
       "subtype": "TableTennis",
       "type": "TableTennis",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 17,
+      "subtype": "TableTennis",
+      "type": "TableTennis",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12989,6 +12996,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3512.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18489951019"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2319.0
         }
       },
       "Walk": {
@@ -13441,7 +13457,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:13:55.577342+00:00",
+  "generated_at": "2026-05-13T17:20:06.825323+00:00",
   "other_bucket": "OtherSports",
   "repo": "payaniga/git-sweaty",
   "source": "strava",
