@@ -11321,5 +11321,18 @@
     "start_date_local": "2026-05-14T08:16:10Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18517430651",
+    "moving_time": 1328.0,
+    "name": "Evening HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-05-15T19:34:43Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
