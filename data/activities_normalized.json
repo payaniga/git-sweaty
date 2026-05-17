@@ -11334,5 +11334,18 @@
     "start_date_local": "2026-05-15T19:34:43Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 2452.6,
+    "elevation_gain": 36.6,
+    "id": "18537553716",
+    "moving_time": 1675.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-17T10:50:45Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
