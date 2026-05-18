@@ -11347,5 +11347,31 @@
     "start_date_local": "2026-05-17T10:50:45Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18545603657",
+    "moving_time": 1328.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-17T21:23:31Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18550396505",
+    "moving_time": 3848.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-18T08:24:25Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
