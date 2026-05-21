@@ -11399,5 +11399,18 @@
     "start_date_local": "2026-05-20T08:23:58Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18594003915",
+    "moving_time": 2420.0,
+    "name": "Afternoon Table Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "TableTennis",
+    "start_date_local": "2026-05-21T16:21:54Z",
+    "type": "TableTennis",
+    "year": 2026
   }
 ]
